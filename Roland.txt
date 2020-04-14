@@ -1,0 +1,1 @@
+{"age":"25","name":"Roland","picture":"school2.jpeg","amountPaid":"500000","course":"Web Development","email":"ngongteresh@gmail.com","level":"3","id":"1","gender":"Female"}

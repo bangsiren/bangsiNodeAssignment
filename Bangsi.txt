@@ -1,0 +1,1 @@
+{"age":"21","name":"Bangsi","picture":"school.jpg","amountPaid":"500000","course":"Web Development","email":"bangsir61@gmail.comy","level":"3","id":"1","gender":"male"}

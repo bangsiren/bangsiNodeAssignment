@@ -1,0 +1,1 @@
+{"age":"30","name":"Randy","picture":"school1.jpg","amountPaid":"500000","course":"Android Development","email":"kimbirandy@gmail.com","level":"2","id":"1","gender":"male"}

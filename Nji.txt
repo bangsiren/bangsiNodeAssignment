@@ -1,0 +1,1 @@
+{"age":"35","name":"Nji","picture":"school2.jpeg","amountPaid":"50000","course":"Android","email":"bangsinji@gmail.com","level":"5","id":"1","gender":"male"}
